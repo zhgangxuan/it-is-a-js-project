@@ -1,0 +1,1 @@
+alert('it-is-a-js-project');
