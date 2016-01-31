@@ -1,3 +1,4 @@
+// CHECK https://github.com/zhgangxuan/it-is-a-js-project
 alert('it-is-a-js-project');
 alert('it-is-a-js-project');
 alert('it-is-a-js-project');
